@@ -1,0 +1,36 @@
+    body {
+            background: plum;
+        }
+    
+        .Lined {
+            position: relative;
+            border: 0px solid black;
+            padding: .25rem;
+            margin: 10% 30%;
+            color: rgb(255, 255, 255);
+            background-color: rgb(100, 100, 100);
+            line-height: 2.00;
+    
+            font-size: 1rem;
+            padding: .200rem .50rem;
+            padding: 10px;
+        }
+    
+        .Align {
+            background-color: rgb(255, 255, 255);
+            border-radius: .30rem;
+            border: 0% solid rgb(255, 255, 255);
+            padding: 10px;
+            width: 30%;
+            font-size: 1rem;
+        }
+    
+        .Align-input {
+            background-color: rgb(255, 255, 255);
+            border-radius: .30rem;
+            border: 0ch solid white;
+            padding: 10px;
+            width: 90%;
+            display: flex;
+            font-size: 1rem;
+        }
